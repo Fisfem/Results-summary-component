@@ -1,0 +1,92 @@
+.lsideblue
+{
+  background-color: #5C3DFA;
+  color: white;
+  float: left;
+  text-align: center;
+  border-radius: 20px;
+  line-height: 21px;
+  width: 280px;
+  margin-left: 150px;
+  
+}
+
+.ridewhite
+{
+  background-color: lightgrey;
+  min-height: 100px;
+  line-height: 35px;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 0px 600px 0px 430px;
+  text-align: center;
+  border-radius: 20px;
+}
+.round_circle
+{
+  background-color: #4827D0;
+  padding: 12px;
+  border-radius: 500px;
+  width: 120px;
+  margin-left: 70px;
+  
+}
+.seventysix
+{
+  font-size: xx-large;
+ 
+}
+
+.upper
+{
+ padding-bottom: -1000px; 
+}
+
+.down_text
+{
+  margin-bottom: 50px;
+
+}
+span
+{
+  margin-left: 50px;
+}
+
+.reaction
+{
+  color: #f7827e;
+}
+
+.memory
+{
+  color:#f8a808 ;
+}
+
+.verbal
+{
+  color:#0f6b53;
+}
+
+.visual
+{
+  color:#5263fc ;
+}
+.summary
+{
+  margin-right: 100px;
+  font-weight: bolder;
+}
+
+#cpu
+{
+ margin-top: 200px;
+ padding-left: 200px;
+}
+
+button
+{
+  background-color: rgb(21, 21, 65);
+  color: white;
+  border-radius: 20px;
+  width: 150px;
+}
